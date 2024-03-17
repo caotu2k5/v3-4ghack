@@ -1,0 +1,1 @@
+clear && cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/caotu2k5/v3-release/raw/main/v3-release.zip && unzip v3-release.zip && chmod a+x 4ghack && chmod a+x psiphon-tunnel-core && exit
